@@ -1,0 +1,16 @@
+export { default as ict } from "./ict.jpg";
+export { default as inaugural } from "./inaugural.jpg";
+export { default as hybrid } from "./hybrid.png";
+export { default as incomes } from "./incomes.jpg";
+export { default as lecture } from "./lecture.jpg";
+export { default as breaking } from "./breaking.jpg";
+export { default as politeness } from "./politeness.jpg";
+export { default as page404 } from "./page404.png";
+export { default as jupeb } from "./jupeb.jpg";
+export { default as odl } from "./odl.jpg";
+export { default as ololade } from "./ololade.jpg";
+export { default as partTime } from "./partTime.jpg";
+export { default as preDegree } from "./preDegree..png";
+export { default as postgraduate } from "./postgraduate.png";
+export { default as logo } from "./logo.png";
+export { default as slide } from "./slide.jpg";
