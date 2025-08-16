@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/lautech-clone/static/css/main.13da66e9.css",
+    "main.js": "/lautech-clone/static/js/main.cbef745c.js",
+    "static/js/453.69f3745b.chunk.js": "/lautech-clone/static/js/453.69f3745b.chunk.js",
+    "static/media/postgraduate.png": "/lautech-clone/static/media/postgraduate.d2802133dc4bfcfc5115.png",
+    "static/media/preDegree..png": "/lautech-clone/static/media/preDegree..84913d98518015e44749.png",
+    "static/media/hybrid.png": "/lautech-clone/static/media/hybrid.b547ad6ed664c9163c49.png",
+    "static/media/ict.jpg": "/lautech-clone/static/media/ict.660690d4c8f980069b79.jpg",
+    "static/media/inaugural.jpg": "/lautech-clone/static/media/inaugural.435949269d73534f45ad.jpg",
+    "static/media/lecture.jpg": "/lautech-clone/static/media/lecture.d030422d4ffe8a8fbc1d.jpg",
+    "static/media/incomes.jpg": "/lautech-clone/static/media/incomes.13dec4a074a3d8b45249.jpg",
+    "static/media/slide.jpg": "/lautech-clone/static/media/slide.9135128894976b49aa80.jpg",
+    "static/media/page404.png": "/lautech-clone/static/media/page404.dc5b2c6c0e356b268cde.png",
+    "static/media/odl.jpg": "/lautech-clone/static/media/odl.a0504b454b4343a1354f.jpg",
+    "static/media/politeness.jpg": "/lautech-clone/static/media/politeness.bc65dfe98321cfba3611.jpg",
+    "static/media/logo.png": "/lautech-clone/static/media/logo.fcb10ee6de2bb6145683.png",
+    "static/media/jupeb.jpg": "/lautech-clone/static/media/jupeb.9af552370474e2eb4605.jpg",
+    "static/media/partTime.jpg": "/lautech-clone/static/media/partTime.b3ccf205ad6eec3fdfa0.jpg",
+    "static/media/breaking.jpg": "/lautech-clone/static/media/breaking.b5ff9f8085f5445d8ab9.jpg",
+    "static/media/ololade.jpg": "/lautech-clone/static/media/ololade.ee49ce870208f3a60fd7.jpg",
+    "index.html": "/lautech-clone/index.html",
+    "main.13da66e9.css.map": "/lautech-clone/static/css/main.13da66e9.css.map",
+    "main.cbef745c.js.map": "/lautech-clone/static/js/main.cbef745c.js.map",
+    "453.69f3745b.chunk.js.map": "/lautech-clone/static/js/453.69f3745b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13da66e9.css",
+    "static/js/main.cbef745c.js"
+  ]
+}
